@@ -1,0 +1,22 @@
+[font]
+size = 14.0
+
+[font.normal]
+family = "JetBrains Mono"
+style = "Regular"
+
+[window]
+padding = { x = 10, y = 10 }
+decorations = "full"
+option_as_alt = "Both"
+
+[cursor]
+style = { shape = "Block", blinking = "On" }
+
+[terminal]
+shell = { program = "/bin/zsh", args = ["-l"] }
+
+[[keyboard.bindings]]
+key = "Return"
+mods = "Shift"
+chars = "\n"
