@@ -1,5 +1,6 @@
 [font]
 size = 14.0
+builtin_box_drawing = true
 
 [font.normal]
 family = "JetBrains Mono"
@@ -15,6 +16,9 @@ style = { shape = "Block", blinking = "On" }
 
 [terminal]
 shell = { program = "/bin/zsh", args = ["-l"] }
+
+[scrolling]
+history = 5000
 
 [[keyboard.bindings]]
 key = "Return"
