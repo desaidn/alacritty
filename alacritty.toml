@@ -8,7 +8,7 @@ style = "Regular"
 
 [window]
 padding = { x = 15, y = 15 }
-decorations = "buttonless"
+decorations = "Buttonless"
 option_as_alt = "Both"
 
 [cursor]
