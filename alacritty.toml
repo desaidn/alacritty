@@ -24,3 +24,13 @@ history = 5000
 key = "Return"
 mods = "Shift"
 chars = "\n"
+
+[[keyboard.bindings]]
+key = "Left"
+mods = "Command"
+chars = "\u001Bb"
+
+[[keyboard.bindings]]
+key = "Right"
+mods = "Command"
+chars = "\u001Bf"
