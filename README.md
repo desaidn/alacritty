@@ -1,6 +1,6 @@
 # alacritty
 
-Personal alacritty configuration.
+Personal alacritty configuration
 
 ## Install
 
