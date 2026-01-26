@@ -27,10 +27,10 @@ chars = "\n"
 
 [[keyboard.bindings]]
 key = "Left"
-mods = "Command"
+mods = "Alt"
 chars = "\u001Bb"
 
 [[keyboard.bindings]]
 key = "Right"
-mods = "Command"
+mods = "Alt"
 chars = "\u001Bf"
